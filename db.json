@@ -1,0 +1,10 @@
+{
+  "tasks": [
+    {
+      "id": "1",
+      "tarefa": "Estudar Angular",
+      "categoria": "Curso",
+      "concluido": false
+    }
+  ]
+}
